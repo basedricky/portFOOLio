@@ -2,6 +2,10 @@
 
 * The purpose of this assignment was to update my porfolio, Github, and LinkedIn. I have just done very simple, high level design aspects, and will continue to work on this and add as I have more time.
 
+* Deployed Application: https://basedricky.github.io/portFOOLio/
+
+* GitHub Page: https://github.com/basedricky/portFOOLio
+
 ## Requirements
 
 * Submit an updated portfolio featuring Project 1 and two exemplary homework assignments.
